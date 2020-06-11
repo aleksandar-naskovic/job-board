@@ -1,0 +1,16 @@
+.but-remove {
+  background-color: #343a40;
+  margin: 0;
+  margin-left: 2vh;
+  border: none;
+  padding: 1.5vh;
+  box-shadow: none;
+  color: #b9ecde;
+}
+.text-center h3 {
+  margin-bottom: 0%;
+  padding-left: 3vh;
+}
+.container-md {
+  min-height: 100vh;
+}
